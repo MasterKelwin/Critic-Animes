@@ -1,0 +1,34 @@
+header {
+    background-color: rgb(177, 93, 255);
+    padding: 2vh 1vw;
+}
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img.logo {
+    width: 20vw;    
+}
+
+.usuario {
+    display: flex;
+    align-items: center;
+    width: 3%;
+}
+
+.usuario p {
+    padding: 0 0 0 6px;
+}
+
+.foto_usuario {
+    border-radius: 50%;
+    width: 100%;
+}
+
+
+footer {
+    height: 3vh;
+}
