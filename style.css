@@ -6,17 +6,16 @@ header {
 .cabecalho {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 img.logo {
-    width: 20vw;    
+    width: 20vw;   
 }
 
 .usuario {
     display: flex;
     align-items: center;
-    width: 3%;
 }
 
 .usuario p {
@@ -25,7 +24,7 @@ img.logo {
 
 .foto_usuario {
     border-radius: 50%;
-    width: 100%;
+    width: 3vw;
 }
 
 
