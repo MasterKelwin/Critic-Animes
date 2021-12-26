@@ -1,3 +1,8 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-color: rgb(195, 130, 255);
+}
+
 header {
     background-color: rgb(177, 93, 255);
     padding: 2vh 1vw;
@@ -20,6 +25,7 @@ img.logo {
 
 .usuario p {
     padding: 0 0 0 6px;
+    color: cornsilk;
 }
 
 .foto_usuario {
