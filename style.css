@@ -33,6 +33,10 @@ img.logo {
     width: 2vw;
 }
 
+ul {
+    display: flex;
+    flex-direction: column;
+}
 
 footer {
     height: 3vh;
