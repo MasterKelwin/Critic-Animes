@@ -40,4 +40,14 @@ ul {
 
 footer {
     height: 3vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+h3 { 
+    font-size: 12px;
+    font-weight: bold;
 }
